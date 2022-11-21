@@ -1,0 +1,18 @@
+body{
+    background: #1f4037;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #99f2c8, #1f4037);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.logo {
+    width: 150px;
+    height:150px;
+    border-radius:150px;
+    border:10px solid #666;
+}
